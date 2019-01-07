@@ -8,7 +8,7 @@
 # Site settings
 title: Hoon
 email: imode7@naver.com
-description:  설명
+description:  김명훈의 블로그입니다.
 baseurl: ""
 url: "http://imode7.github.io" # the base hostname & protocol for your site
 
